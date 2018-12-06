@@ -86,3 +86,4 @@ def monop(finish_order=6,games_order=3):
     return squares
 
 print(monop())
+print("moi")
